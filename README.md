@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pinheir0g
 - 👀 I’m interested in ... learning all about programing
-- 🌱 I’m currently learning ... only python
-- 💞️ I’m looking to collaborate on ... show me the universe of programing and stuff that i need to know
+- 🌱 I’m currently learning ... python, linux
+- 💞️ I’m looking to collaborate on ... everything i can
 - 📫 How to reach me ... @pinheir0g
 - 
 
