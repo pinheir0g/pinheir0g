@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ## Helo there
 My name is Gustavo Pinheiro and i am studying to become a BackEnd-Developer
+=======
+# Hi, I’m Gustavo
+I am studying to become a BackEnd-Developer
+>>>>>>> 53e2844c38fdfa170384ce6eec3e8e75d0aab904
 
 I started to learn about programming 4 months ago.
 In this time I started my studies with Python, took a free course and then got to know other areas of programming.
