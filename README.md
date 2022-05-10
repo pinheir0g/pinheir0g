@@ -1,5 +1,5 @@
 # Hi, I’m Gustavo
-- And i am studying to become a BackEnd-Developer
+I am studying to become a BackEnd-Developer
 
 I started to learn about programming 4 months ago.
 In this time I started my studies with Python, took a free course and then got to know other areas of programming.
