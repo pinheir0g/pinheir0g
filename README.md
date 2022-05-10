@@ -1,11 +1,16 @@
-# Hi, I’m Gustavo
-- And i am studying to become a BackEnd-Developer
+## Helo there
+My name is Gustavo Pinheiro and i am studying to become a BackEnd-Developer
 
 I started to learn about programming 4 months ago.
 In this time I started my studies with Python, took a free course and then got to know other areas of programming.
 
 Today, I have basic knowledge of Python, SQL, html-css, Linux, Git and GitHub now.
 My goal is to become a BackEnd-Developer, I study about 8h a day to achieve this goal as soon as possible
+
+<h2>Detailed Informatio</h2>
+<ul>
+    <li>Name: Gustavo Pinheiro</li>
+</ul>
 
 <!---
 pinheir0g/pinheir0g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
