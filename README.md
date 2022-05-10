@@ -7,10 +7,10 @@ In this time I started my studies with Python, took a free course and then got t
 Today, I have basic knowledge of Python, SQL, html-css, Linux, Git and GitHub now.
 My goal is to become a BackEnd-Developer, I study about 8h a day to achieve this goal as soon as possible
 
-<h2>Detailed Informatio</h2>
-<ul>
-    <li>Name: Gustavo Pinheiro</li>
-</ul>
+Detailed Informatio
+
+Name: Gustavo Pinheiro
+
 
 <!---
 pinheir0g/pinheir0g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
