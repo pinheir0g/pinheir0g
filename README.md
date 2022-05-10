@@ -1,4 +1,4 @@
-#Hi, I’m Gustavo
+# Hi, I’m Gustavo
 - And i am studying to become a BackEnd-Developer
 
 I started to learn about programming 4 months ago.
