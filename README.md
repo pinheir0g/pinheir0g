@@ -1,6 +1,6 @@
 ## Hello there
 
-I don't know how u got here, but let me show you a little bit about me and wha am i doing
+I don't know how u got here, but let me show you a little bit about me and what am i doing
 
 ## Public Information
 
