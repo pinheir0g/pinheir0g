@@ -23,7 +23,7 @@ My goal is to become a BackEnd-Developer, I study about 8h a day to achieve this
 
 - I'am currently working as a salesman in a company that sells natural products;
 - I studied and worked in the brazilian financial market for 3 years;
-- After I started working as a salesman, I got discouraged from the financial market, because I had worked for a long time without many results, so after 1 year in my new job, tired of working with sales, I decided to work as a developer and start studying programming and understand more of this universe;
+- After I started working as a salesman, I got discouraged from the financial market, because I had worked for a long time without many results, so after 1 year in my new job, tired of working with sales, I decided to work as a developer and start studying programming and understand more of this universe.
 
 
 
