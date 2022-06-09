@@ -10,7 +10,7 @@ I started to learn about technology and development 4 months ago.
 In this time I started my studies with Python, took a free course and then got to know other areas of programming.
 
 Today, I have basic knowledge of Python, SQL, html-css, Linux, Git and GitHub now.
-My goal is to become a Backend-Developer.
+
 
 ## Detailed Information
 
