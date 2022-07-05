@@ -15,6 +15,6 @@ Today, I have basic knowledge of Python, SQL, html-css, Linux, Git, API's.
 - Name: Gustavo Pinheiro
 - Age: 23
 - Living in: Rio de Janeiro - RJ, Brazil
-- Focused on Learning: Python - SQL - API's
+- Focused on Learning: Python - SQL 
 
 
