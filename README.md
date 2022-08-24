@@ -8,13 +8,13 @@ My name is Gustavo Pinheiro and I am studying to become a Backend-Developer
 
 I started to learn about technology and development in the beginning of 2022. In this time I started my studies with Python, took a free course and then got to know other areas of programming.
 
-Today, I have basic knowledge of Python, SQL, html-css, Linux, Git, API's.
+Today, I have basic knowledge of Python, SQL, html-css, Linux, Git, FastAPI, Flask.
 
 ## Detailed Information
 
 - Name: Gustavo Pinheiro
-- Age: 23
+- Age: 24
 - Living in: Rio de Janeiro - RJ, Brazil
-- Focused on Learning: Python - SQL 
+- Focused on Learning: Python in web development 
 
 
