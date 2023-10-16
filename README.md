@@ -13,7 +13,7 @@ Nowadays I am focusing on web development and testing with python and getting my
 ## Detailed Information
 
 - Name: Gustavo Pinheiro
-- Age: 24
+- Age: 25
 - Living in: Rio de Janeiro - RJ, Brazil
-- Focused on Learning: Python - Flask - FastAPI - Tests - SQL
+- Focused on Learning: Python - Flask - FastAPI - Tests - Selenium
 - Currently pursuing a degree in Systems Analysis and Development
